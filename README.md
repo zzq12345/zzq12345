@@ -16,7 +16,7 @@
 ---
 
 ## 📂 Featured Projects
-- 📺 [tvepg](https://github.com/zzq12345/tvepg) – 電視節目 EPG 管理工具  
+- 📺 [tvepg](https://github.com/zzq12345/epg) – 電視節目 EPG 管理工具  
   
 
 ---
